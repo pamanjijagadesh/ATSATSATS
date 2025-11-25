@@ -7,6 +7,7 @@ reportlab
 # LlamaIndex and Azure AI
 llama-index
 llama-index-llms-azure-inference
+llama-index-packs-resume-screener
 
 # Optional: used for temp directories, async handling, etc. (usually built-in)
 nest-asyncio
@@ -14,4 +15,5 @@ python-dotenv
 
 # Optional for DOCX parsing via unstructured (if needed)
 unstructured
+
 python-docx
