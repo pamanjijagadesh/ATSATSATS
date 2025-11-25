@@ -1,0 +1,17 @@
+# Core app dependencies
+streamlit
+pandas
+docx2txt
+reportlab
+
+# LlamaIndex and Azure AI
+llama-index
+llama-index-llms-azure-inference
+
+# Optional: used for temp directories, async handling, etc. (usually built-in)
+nest-asyncio
+python-dotenv
+
+# Optional for DOCX parsing via unstructured (if needed)
+unstructured
+python-docx
