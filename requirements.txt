@@ -7,13 +7,12 @@ reportlab
 # LlamaIndex and Azure AI
 llama-index
 llama-index-llms-azure-inference
+
+# Pre-installed Resume Screener Pack (prevents "pip install ." issues)
 llama-index-packs-resume-screener
 
-# Optional: used for temp directories, async handling, etc. (usually built-in)
+# Optional helpers
 nest-asyncio
 python-dotenv
-
-# Optional for DOCX parsing via unstructured (if needed)
 unstructured
-
 python-docx
